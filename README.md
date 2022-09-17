@@ -6,3 +6,10 @@
 - Added alt attributes to img tags with description
 - Added type attribute when linking CSS
 
+## Deployed Site:
+- https://tdglu.github.io/Horiseon
+
+## Repo:
+- https://github.com/TDGLU/Horiseon
+
+<img src="./assets/01-html-css-git-homework-demo.png" >
