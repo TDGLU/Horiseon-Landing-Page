@@ -4,3 +4,5 @@
 - Changed a few HTML tags to be more semantic
 - Made comments for essential sections (nav, hero, section, aside, footer)
 - Added alt attributes to img tags with description
+- Added type attribute when linking CSS
+
