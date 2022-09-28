@@ -7,9 +7,9 @@
 - Added type attribute when linking CSS
 
 ## Deployed Site:
-- https://tdglu.github.io/Horiseon
+- https://tdglu.github.io/Lukeseon/
 
 ## Repo:
-- https://github.com/TDGLU/Horiseon
+- https://github.com/TDGLU/Lukeseon
 
 <img src="./assets/01-html-css-git-homework-demo.png" >
