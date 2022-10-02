@@ -10,11 +10,11 @@
 
 ## Deployed Site:
 
-- https://tdglu.github.io/Lukeseon/
+- https://tdglu.github.io/Horiseon-Landing-Page
 
 ## Repo:
 
-- https://github.com/TDGLU/Lukeseon
+- https://github.com/TDGLU/Horiseon-Landing-Page
 
 ## Screenshot
 
