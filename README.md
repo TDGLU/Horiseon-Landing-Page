@@ -18,4 +18,4 @@
 
 ## Screenshot
 
-<img src="./assets/01-html-css-git-homework-demo.png" >
+<img src="./assets/horiseon-screenshot.png" alt="horiseon challenge screenshot">
