@@ -9,9 +9,13 @@
 - Gave challenge a unique name
 
 ## Deployed Site:
+
 - https://tdglu.github.io/Lukeseon/
 
 ## Repo:
+
 - https://github.com/TDGLU/Lukeseon
+
+## Screenshot
 
 <img src="./assets/01-html-css-git-homework-demo.png" >
